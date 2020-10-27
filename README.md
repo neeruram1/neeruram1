@@ -1,8 +1,8 @@
 # Neeru Ram
-💃 She / her <br />
+🙋🏽‍♀️ She / her <br />
 
 *** *** ***
-🧗‍♀️ Former music industry maven 🎸, current backend software developer <br/>
+♀️ Former music industry maven 🎸🎼, current backend software developer ⌨️<br/>
 🧠 Curiosity drives me, life long learner, music lover, problem solver. 💻 <br/>
 *** *** ***
 🎓 Turing School of Software & Design, 2020 <br/>
