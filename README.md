@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/SQL%20-201E84.svg?style=for-the-badge&logo=SQL&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveRecord%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-B8189A.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elixir%20-B8189A.svg?&style=for-the-badge&logo=Elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elixir%20-201E84.svg?&style=for-the-badge&logo=Elixir&logoColor=white" />
 </p>
 
 ### FRAMEWORKS
@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/sinatra%20-201E84.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/node.js%20-2A42D0.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-B8189A.svg?&style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phoenix%20-7119C2.svg?&style=for-the-badge&logo=Phoenix&logoColor=white" />
 </p>
 
 ### TOOLS 
