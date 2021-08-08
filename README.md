@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/ActiveRecord%20-2A42D0.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL%20-B8189A.svg?&style=for-the-badge&logo=GraphQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Elixir%20-201E84.svg?&style=for-the-badge&logo=Elixir&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ### FRAMEWORKS
@@ -37,6 +39,7 @@
   <img src="https://img.shields.io/badge/Postgres%20-B8189A.svg?&style=for-the-badge&logo=Postgres&logoColor=white" />
   <img src="https://img.shields.io/badge/Postico%20-7119C2.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
   <img src="https://img.shields.io/badge/Git%20-201E84.svg?&style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </p>
 
 ### PROCESSES
@@ -45,6 +48,12 @@
   <img src="https://img.shields.io/badge/TDD%20-B8189A.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
   <img src="https://img.shields.io/badge/MVC%20-7119C2.svg?&style=for-the-badge&logo=MVC&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20-201E84.svg?&style=for-the-badge&logo=REST&logoColor=white" />
+</p>
+
+### DATABASES
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 [![Neeru's github stats](https://github-readme-stats.vercel.app/api?username=neeruram1)](https://github.com/neeruram1/github-readme-stats)
