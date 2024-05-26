@@ -2,11 +2,9 @@
 🙋🏽‍♀️ She / her <br />
 
 *** *** ***
-♀️ Former music industry maven 🎸🎼, current backend software developer ⌨️<br/>
-🧠 Curiosity drives me, life long learner, music lover, problem solver. 💻 <br/>
+♀️ Backend software developer, former music industry maven. ⌨️<br/>
+🧠 Curiosity drives me, life long learner, problem solver. 💻 <br/>
 *** *** ***
-🎓 Turing School of Software & Design, 2020 <br/>
-🔎 [LinkedIn](https://www.linkedin.com/in/neeru-ram-81a2b867/) </br>
 
 ## SKILLS
 ### LANGUAGES
