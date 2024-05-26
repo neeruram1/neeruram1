@@ -53,5 +53,3 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
-[![Neeru's github stats](https://github-readme-stats.vercel.app/api?username=neeruram1)](https://github.com/neeruram1/github-readme-stats)
